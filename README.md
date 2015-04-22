@@ -23,7 +23,7 @@ Every time someone tweets with #homesweethome or #worksucks (or maybe #creepy or
 For example, someone tweets the following:
 
 <blockquote class="twitter-tweet" lang="en"><p>Ever get so bored at work that you balance a hammer ??? <a href="https://twitter.com/hashtag/WorkSucks?src=hash">#WorkSucks</a> <a href="https://twitter.com/hashtag/Boredom?src=hash">#Boredom</a> <a href="http://t.co/Q4bSvzmGxV">pic.twitter.com/Q4bSvzmGxV</a></p>&mdash; C&#39;The Chainsaw&#39;G (@BaltimoreChrisG) <a href="https://twitter.com/BaltimoreChrisG/status/590660413391577089">April 21, 2015</a>
-![](https://pbs.twimg.com/media/CDJygtwW4AA0Wro.jpg:small)
+![](https://pbs.twimg.com/media/CDJygtwW4AA0Wro.jpg:small?raw=true)
 </blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

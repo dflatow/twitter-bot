@@ -11,7 +11,7 @@ For example, someone tweets the following:
 
 The bot will respond:
 
-<blockquote class="twitter-tweet" lang="en"><p>Not to worry, I <a href="https://twitter.com/hashtag/found?src=hash">#found</a> you! You're in Washington Square Park! ![](https://raw.githubusercontent.com/dflatow/twitter-bot/master/map.png)
+<blockquote class="twitter-tweet" lang="en"><p>Not to worry, I <a href="https://twitter.com/hashtag/found?src=hash">#found</a> you! You're in Washington Square Park! ![](map.png)
 
 </blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

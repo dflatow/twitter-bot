@@ -34,7 +34,7 @@ The bot will respond:
 ![](https://raw.githubusercontent.com/dflatow/twitter-bot/master/map.png)
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<sup>1</sup> It will use the software I wrote for a reaseach [paper](https://github.com/dflatow/WSDM_2015_DEMO/wiki/TOY-DEMO) I co-authored (now published in WSDM  2015) to predict a user's home/work address.
+<sup>1</sup> It will use the software I co-authored for a reaseach [paper](https://github.com/dflatow/WSDM_2015_DEMO/wiki/TOY-DEMO) (now published in WSDM  2015) to predict a user's home/work address.
 
 <h1 id="the-steps">The steps</h1>
 

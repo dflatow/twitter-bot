@@ -12,11 +12,11 @@ def make_sherman_text(user, lng, lat):
 	A text string with the #hereyouare hashtag and something extra special
 	"""
 	if random() > 0.7:
-		return "@" + user + " I am the finder. #hereyouare: " + lng + "," + lat
+		return "I am the finder. #hereyouare: " + lng + "," + lat
 	elif random() > 0.5:
-		return "Great job, human internet. I will be back soon. @" + user + " #hereyouare: " + lng + "," + lat
+		return "Great job, human internet. I will be back soon. #hereyouare: " + lng + "," + lat
 	else:
-		return "don't fret @" + user + " #hereyouare: " + lng + "," + lat
+		return "don't fret #hereyouare: " + lng + "," + lat
 
 def get_latest_geo(count=100, hashtag="#whereami"):
 	""" 
